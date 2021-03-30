@@ -1,1 +1,1 @@
-#This is a learing project.
+#This is a learning project.
